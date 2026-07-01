@@ -40,8 +40,7 @@ python main.py
 
 # 📸 Screenshot
 
-(Add your screenshot here after uploading it.)
+![AI Assistant](image.png)
 
-# 👨‍💻 Author
-
+# 👨‍💻 Author--
 Rishabh Kasari
